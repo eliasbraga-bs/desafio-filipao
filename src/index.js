@@ -1,6 +1,6 @@
 // Definindo o nome e a quantidade de experiência (XP) do herói
 
-let nomeHeroi = "Hermes";
+let nomeHeroi = "Kong";
 let xpHeroi = 8000;
 
 // Utilizando uma estrutura de decisão para determinar o nível do herói com base na XP
